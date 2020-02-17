@@ -1,0 +1,12 @@
+{
+    "_id": "5e4a99705bd2b73694645c95",
+    "index": 0,
+    "isActive": true,
+    "balance": "$3,074.55",
+    "age": 37,
+    "eyeColor": "blue",
+    "name": "Ratliff Le",
+    "gender": "male",
+    "registered": "2014-05-30T12:06:15 -09:00",
+    "favoriteFruit": "apple"
+}
